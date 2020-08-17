@@ -1,3 +1,4 @@
 # [Edward]'s Notes
-###### This is an H6 header (smallest)
-# This is an H1 header (biggest)
+## Summary
+
+This repository contains all of the notes taken by Edward Smith for the Lighthouse Labs Web Development Course. (Aug 2020 western Canadian Cohort)
